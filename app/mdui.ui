@@ -100,7 +100,7 @@
   <widget class="QPushButton" name="northcar">
    <property name="geometry">
     <rect>
-     <x>150</x>
+     <x>240</x>
      <y>590</y>
      <width>161</width>
      <height>51</height>
@@ -108,9 +108,11 @@
    </property>
    <property name="font">
     <font>
+     <family>Arial</family>
      <pointsize>9</pointsize>
-     <weight>75</weight>
-     <bold>true</bold>
+     <weight>50</weight>
+     <bold>false</bold>
+     <kerning>false</kerning>
     </font>
    </property>
    <property name="text">
@@ -166,17 +168,18 @@
   <widget class="QPushButton" name="northpeo">
    <property name="geometry">
     <rect>
-     <x>350</x>
-     <y>590</y>
+     <x>240</x>
+     <y>660</y>
      <width>161</width>
      <height>51</height>
     </rect>
    </property>
    <property name="font">
     <font>
+     <family>Arial</family>
      <pointsize>9</pointsize>
-     <weight>75</weight>
-     <bold>true</bold>
+     <weight>50</weight>
+     <bold>false</bold>
     </font>
    </property>
    <property name="text">
@@ -186,8 +189,8 @@
   <widget class="QPushButton" name="eastcar">
    <property name="geometry">
     <rect>
-     <x>740</x>
-     <y>580</y>
+     <x>880</x>
+     <y>590</y>
      <width>161</width>
      <height>51</height>
     </rect>
@@ -195,8 +198,8 @@
    <property name="font">
     <font>
      <pointsize>9</pointsize>
-     <weight>75</weight>
-     <bold>true</bold>
+     <weight>50</weight>
+     <bold>false</bold>
     </font>
    </property>
    <property name="text">
@@ -206,17 +209,18 @@
   <widget class="QPushButton" name="eastpeo">
    <property name="geometry">
     <rect>
-     <x>950</x>
-     <y>580</y>
+     <x>880</x>
+     <y>650</y>
      <width>161</width>
      <height>51</height>
     </rect>
    </property>
    <property name="font">
     <font>
+     <family>Arial</family>
      <pointsize>9</pointsize>
-     <weight>75</weight>
-     <bold>true</bold>
+     <weight>50</weight>
+     <bold>false</bold>
     </font>
    </property>
    <property name="text">
